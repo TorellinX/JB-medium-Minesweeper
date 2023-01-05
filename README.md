@@ -1,2 +1,2 @@
 # JB-medium-Minesweeper
-Project: Minesweeper from JetBrains Academy.
+Project: [Minesweeper](https://hyperskill.org/projects/77) from JetBrains Academy.
